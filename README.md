@@ -1,4 +1,3 @@
-
 <h2 align="center"><samp>Hi 👋 I'm  Abd alrzaq najieb</samp></h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,80 +8,87 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
 </div>
 
-
 <h3 align="center"><samp>✨ Languages and Tools ✨</samp></h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" />
         <br><small>PHP</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
         <br><small>C++</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
         <br><small>C</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
         <br><small>HTML</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
         <br><small>Java</small>
-    </div>
-    <div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50" />
         <br><small>Laravel</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://www.cdnlogo.com/logos/o/80/opengl.svg" alt="OpenGL" width="50" height="50" />
         <br><small>OpenGL</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
         <br><small>Git</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
         <br><small>GitHub</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
         <br><small>MySQL</small>
-    </div>
-    <div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
         <br><small>Postman</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
         <br><small>Linux</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/3208/3208733.png" alt="Command Line" width="50" height="50" />
         <br><small>Prompt Engineering</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="PHPStorm" width="50" height="50" />
         <br><small>PHPStorm</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="CLion" width="50" height="50" />
         <br><small>CLion</small>
-    </div>
-    <div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />
         <br><small>VSCode</small>
-    </div>
-    <div>
+      </td>
+      <td align="center">
         <img src="https://media.licdn.com/dms/image/v2/D560BAQGkToYARiE6Ew/company-logo_200_200/company-logo_200_200/0/1699277799790/cisco_secure_logo?e=2147483647&v=beta&t=r385JQhym1Z9x07tMbeYvI_-jiaFu40uEpq9jCed-Z0" alt="Cisco" width="50" height="50" />
         <br><small>Cisco</small>
-    </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 <h3 align="center"><samp>🔗 Accounts</samp></h3>
 
@@ -121,7 +127,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABDALRZAQ345&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
----
