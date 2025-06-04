@@ -1,12 +1,22 @@
-<h2 align="center"><samp>Hi 👋 I'm  Abd alrzaq najieb</samp></h2>
+<h2 align="center"><samp>Hi 👋 I'm Abd alrzaq najieb</samp></h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=BackEnd+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=BackEnd+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
-</div>
+<!-- About Me Section -->
+<h3 align="center">🚀 About Me</h3>
+
+<ul>
+  <li>🧠 <strong>Currently Building:</strong> A Learning Management System Using Laravel ,Mysql and Docker .</li>
+  <li>💻 <strong>Specialties:</strong> Back-end development .</li>
+  <li>💡 <strong>Interests:</strong> Software engineering, AI, and competitive programming.</li>
+  <li>📍 <strong>Location:</strong> Based in Damascus, Syria.</li>
+  <li>📄 <strong>My Resume :</strong> <a href="Abd_Alrzaq_Cv.pdf" target="_blank">take a look </a></li>
+</ul>
+
+
 
 <h3 align="center"><samp>✨ Languages and Tools ✨</samp></h3>
 <div align="center">
@@ -21,16 +31,16 @@
         <br><small>C++</small>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
-        <br><small>C</small>
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
         <br><small>HTML</small>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
         <br><small>Java</small>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+        <br><small>Docker</small>
       </td>
     </tr>
     <tr>
@@ -65,26 +75,8 @@
         <br><small>Linux</small>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/3208/3208733.png" alt="Command Line" width="50" height="50" />
-        <br><small>Prompt Engineering</small>
-      </td>
-      <td align="center">
-        <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="PHPStorm" width="50" height="50" />
-        <br><small>PHPStorm</small>
-      </td>
-      <td align="center">
-        <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="CLion" width="50" height="50" />
-        <br><small>CLion</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50" />
-        <br><small>VSCode</small>
-      </td>
-      <td align="center">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQGkToYARiE6Ew/company-logo_200_200/company-logo_200_200/0/1699277799790/cisco_secure_logo?e=2147483647&v=beta&t=r385JQhym1Z9x07tMbeYvI_-jiaFu40uEpq9jCed-Z0" alt="Cisco" width="50" height="50" />
-        <br><small>Cisco</small>
+        <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="50" height="50" />
+        <br><small>Three.js</small>
       </td>
     </tr>
   </table>
@@ -114,16 +106,31 @@
         <br>Codeforces
       </td>
       <td align="center" width="100">
-        <a href="" target="_blank">
-          <img src="ac.jpeg" alt="LeetCode" width="45" height="45" />
+        <a href="https://atcoder.jp/users/abd-alrzaq" target="_blank">
+          <img src="ac.jpeg" alt="Atcoder" width="45" height="45" />
         </a>
-        <br>Atcoder
+        <br>AtCoder
+      </td>
+      <td align="center" width="100">
+        <a href="https://t.me/AbdtAbd" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="45" height="45" />
+        </a>
+        <br>Telegram
+      </td>
+      <td align="center" width="100">
+        <a href="https://medium.com/@jmalj6564" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="45" height="45" />
+        </a>
+        <br>Medium
       </td>
     </tr>
   </table>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ABDALRZAQ345&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDALRZAQ345&theme=transparent&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
