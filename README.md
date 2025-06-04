@@ -13,7 +13,7 @@
   <li>💻 <strong>Specialties:</strong> Back-end development .</li>
   <li>💡 <strong>Interests:</strong> Software engineering, AI, and competitive programming.</li>
   <li>📍 <strong>Location:</strong> Based in Damascus, Syria.</li>
-  <li>📄 <strong>My Resume :</strong> <a href="Abd_Alrzaq_Cv.pdf" target="_blank">take a look </a></li>
+  <li>📄 <strong>My Resume :</strong> <a href="https://github.com/ABDALRZAQ345/ABDALRZAQ345/raw/master/Abd_Alrzaq_Cv.pdf" target="_blank">take a look </a></li>
 </ul>
 
 
