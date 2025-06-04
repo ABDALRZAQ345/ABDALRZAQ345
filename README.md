@@ -1,6 +1,4 @@
-<h2 align="center">
-  <samp>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align:middle"> I'm Abd alrzaq najieb</samp>
-</h2>
+<h2 align="center"><samp>Hi 👋 I'm Abd alrzaq najieb</samp></h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=BackEnd+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
