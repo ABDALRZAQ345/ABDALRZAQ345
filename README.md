@@ -1,4 +1,4 @@
-<h2 align="center"><samp>Hi 👋 I'm Abd alrzaq najieb</samp></h2>
+<h2 align="center"><samp>Hi 👋 I'm Abd Alrzaq Najieb</samp></h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F039BE5&center=true&width=435&lines=BackEnd+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <ul>
   <li>🧠 <strong>Currently Building:</strong> A Learning Management System Using Laravel ,Mysql and Docker .</li>
   <li>💻 <strong>Specialties:</strong> Back-end development .</li>
-  <li>💡 <strong>Interests:</strong> Software engineering, AI, and competitive programming.</li>
+  <li>💡 <strong>Interests:</strong> Software engineering, AI, and Competitive programming.</li>
   <li>📍 <strong>Location:</strong> Based in Damascus, Syria.</li>
   <li>📄 <strong>My Resume :</strong> <a href="https://github.com/ABDALRZAQ345/ABDALRZAQ345/raw/master/Abd_Alrzaq_Cv.pdf" target="_blank">take a look </a></li>
 </ul>
@@ -110,7 +110,7 @@
         <br>Codeforces
       </td>
       <td align="center" width="100">
-        <a href="https://atcoder.jp/users/abd-alrzaq" target="_blank">
+        <a href="https://atcoder.jp/users/abd_alrzaq" target="_blank">
           <img src="ac.jpeg" alt="Atcoder" width="45" height="45" />
         </a>
         <br>AtCoder
