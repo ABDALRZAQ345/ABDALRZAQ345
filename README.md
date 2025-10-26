@@ -9,7 +9,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <ul>
-  <li>🧠 <strong>Currently Building:</strong> A Learning Management System Using Laravel ,Mysql and Docker .</li>
+  <li>🧠 <strong>Currently Learning:</strong> Artificial intelligent </li>
   <li>💻 <strong>Specialties:</strong> Back-end development .</li>
   <li>💡 <strong>Interests:</strong> Software engineering, AI, and Competitive programming.</li>
   <li>📍 <strong>Location:</strong> Based in Damascus, Syria.</li>
