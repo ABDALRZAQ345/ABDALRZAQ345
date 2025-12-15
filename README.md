@@ -5,11 +5,11 @@
   </a>
 </p>
 
-<!-- About Me Section -->
+
 <h3 align="center">🚀 About Me</h3>
 
 <ul>
-  <li>🧠 <strong>Currently Learning:</strong> Artificial intelligent </li>
+  <li>🧠 <strong>Currently Learning:</strong> Artificial Intelligence and Microservices Architecture </li>
   <li>💻 <strong>Specialties:</strong> Back-end development .</li>
   <li>💡 <strong>Interests:</strong> Software engineering, AI, and Competitive programming.</li>
   <li>📍 <strong>Location:</strong> Based in Damascus, Syria.</li>
@@ -82,7 +82,10 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFBrYbxxK7mZRt-wZnDNbORMN5XI56uFAGA&s" alt="C#" width="50" height="50" />
         <br><small>C#</small>
       </td>
-    </tr>
+      <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuzeYZH-q6XgEagWUqcSHA-YeozRLBHkdbQ&s" alt="C#" width="50" height="50" />
+        <br><small>RabbitMq</small>
+      </td>
   </table>
 </div>
 
@@ -116,12 +119,6 @@
         <br>AtCoder
       </td>
       <td align="center" width="100">
-        <a href="https://t.me/AbdtAbd" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="45" height="45" />
-        </a>
-        <br>Telegram
-      </td>
-      <td align="center" width="100">
         <a href="https://medium.com/@jmalj6564" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="45" height="45" />
         </a>
@@ -138,3 +135,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDALRZAQ345&theme=transparent&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
+<h4 align="center">Open to collaboration, learning, and challenges</h4>
