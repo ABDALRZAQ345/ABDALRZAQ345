@@ -86,6 +86,13 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuzeYZH-q6XgEagWUqcSHA-YeozRLBHkdbQ&s" alt="C#" width="50" height="50" />
         <br><small>RabbitMq</small>
       </td>
+      </tr>
+       <tr>
+      <td align="center">
+        <img src="https://www.tothenew.com/blog/wp-ttn-blog/uploads/2023/09/redis_logo-1.png" alt="Redis" width="50" height="50" />
+        <br><small>Redis</small>
+      </td>
+      </tr>
   </table>
 </div>
 
@@ -128,11 +135,22 @@
   </table>
 </div>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDALRZAQ345&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%"/>
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%"/>
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%"/>
+</p>
+
+---
 
 <h4 align="center">Open to collaboration, learning, and challenges</h4>
