@@ -92,7 +92,26 @@
         <img src="https://www.tothenew.com/blog/wp-ttn-blog/uploads/2023/09/redis_logo-1.png" alt="Redis" width="50" height="50" />
         <br><small>Redis</small>
       </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
+          <br><small>PostgreSQL</small>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" />
+          <br><small>GitLab</small>
+        </td>
+        <td align="center">
+          <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="API Integration" width="50" height="50" />
+          <br><small>API Integration</small>
+        </td>
+        <td align="center">
+          <img src="https://cdn.simpleicons.org/k6/7D64FF" alt="k6" width="50" height="50" />
+          <br><small>k6</small>
+        </td>
       </tr>
+      <tr>
+        
+      
   </table>
 </div>
 
