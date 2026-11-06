@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=039BE5&center=true&vCenter=true&width=550&lines=Backend+Engineer;High-Performance+%26+Scalable+Systems;Competitive+Programmer+%7C+Codeforces+Specialist;AI+Student+%40+Damascus+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=039BE5&center=true&vCenter=true&width=550&lines=Backend+Engineer;High-Performance+%26+Scalable+Systems;Competitive+Programmer;AI+Student+%40+Damascus+University" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-abdlarzaqnajieb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ABDALRZAQ345/ABDALRZAQ345/raw/master/Abd_Alrzaq_Cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View_CV-2E8B57?style=flat-square&logo=googledocs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-2E8B57?style=flat-square&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=postman,prometheus,grafana,threejs" alt="Tools and Technologies" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/k6-Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
 </p>
 
 </div>
